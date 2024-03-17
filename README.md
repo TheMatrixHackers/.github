@@ -29,9 +29,7 @@ We believe that everyone has something to contribute. Here's how you can be a pa
 
 For more information on our work or how to get involved, please reach out to us:
 
-- **Email**: [   ]
-- **Address**: [   ]
-- **Social Media**: [   ]
+- **Email**: [elhoussainbouhyla@gmail.com]
 
 Together, we can unlock the potential of human ingenuity to create a better future for all. Join us on this journey of discovery and change.
 
