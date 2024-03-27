@@ -1,7 +1,7 @@
 # .github
 # The-Matrix-Hackers
 
-Welcome to The-Matrix-Hackers, a non-profit organization dedicated to solving humanity's most complex problems. Our mission is to advance understanding, foster innovation, and create solutions for global challenges, with a current focus on the P vs NP Problem.
+Welcome to The-Matrix-Hackers, a non-profit organization dedicated to solving humanity's most complex problems. Our mission is to advance understanding, foster innovation, and create solutions for global challenges, with a current focus on the P vs NP Problem read more https://docs.google.com/document/d/1kfB41_GexKwJqzsFjOyNxNMLoQ2JImaFDyc-YNfPjn0/edit?usp=sharing .
 
 ## About Us
 
