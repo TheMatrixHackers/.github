@@ -24,8 +24,8 @@
 
 ## What research are we currently working on ?
 >  The organization is currently working on the P-vs-NP problem.
->  If P = NP, then most of humanity's problems would be solved using this algorithm,
-       such as curing cancer.
+If P = NP, then most of humanity's problems would be solved using this algorithm,
+such as curing cancer.
     
 
 
