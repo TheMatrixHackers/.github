@@ -38,5 +38,5 @@ such as curing cancer.
 
 
 ## How can you join ?
-> sent email to  contact@thematrixhackers.org just say i want to be one of the hackers :)
+> send email to  contact@thematrixhackers.org just say i want to be one of the hackers :)
 
