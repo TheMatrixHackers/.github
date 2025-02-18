@@ -10,7 +10,12 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-# THE MATRIX HACKERS `#009900` `` Making scientific research open and collaborative ´´
+# THE MATRIX HACKERS ` Making scientific research open and collaborative ´
+
+
+## Who we are ?
+    * the matrix hackers is a non profit organization, our goal make science and scientific research open and collaborative like open source in software.*
+
 
 
 
