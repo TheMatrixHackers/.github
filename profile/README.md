@@ -26,7 +26,10 @@
 >  The organization is currently working on the P-vs-NP problem.
 If P = NP, then most of humanity's problems would be solved using this algorithm,
 such as curing cancer.
-    
+
+
+## How do we want to solve the problem ?
+> We want to make this a community effort. By building a platform for researchers and those interested in the P-vs-NP problem to work together as a team to solve the problem.
 
 
 
