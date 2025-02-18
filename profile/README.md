@@ -21,6 +21,11 @@
     _ All of the organization's research can be viewed and reused under open access license.
     _ Researchers and interested parties from anywhere in the world can view and work 
           together through our platform dedicated to scientific research.*
+
+## What research are we currently working on ?
+   *_ The organization is currently working on the P-vs-NP problem.
+    _ If P = NP, then most of humanity's problems would be solved using this algorithm,
+       such as curing cancer.*
     
 
 
