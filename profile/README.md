@@ -18,8 +18,8 @@
 > the matrix hackers is a non profit organization,
     our goal make science and scientific research 
     open and collaborative like open source in software.
-    _ All of the organization's research can be viewed and reused under open access license.
-    _ Researchers and interested parties from anywhere in the world can view and work 
+    _ 1 All of the organization's research can be viewed and reused under open access license.
+    _ 2 Researchers and interested parties from anywhere in the world can view and work 
           together through our platform dedicated to scientific research.
 
 ## What research are we currently working on ?
@@ -33,4 +33,10 @@ such as curing cancer.
 
 
 
+## Who can join the team ?
+> Anyone interested in P-vs-NP, programmers, designers...
+
+
+## How can you join ?
+> sent email to  contact@thematrixhackers.org just say i want to be one of the hackers :)
 
